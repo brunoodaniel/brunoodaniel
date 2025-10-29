@@ -41,7 +41,8 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="[https://profile-counter.glitch.me/{brunoodaniel}/count.svg](https://komarev.com/ghpvc/?username=brunoodaniel&color=00bfbf&style=flat-square&label=VISITORS)" /></p> 
+<p align="center">  <img src="https://api.countapi.xyz/hit/brunoodaniel.github/profile.svg" alt="Visitor Count"/>
+</p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
