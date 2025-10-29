@@ -39,12 +39,6 @@
 ![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-0D1117?style=for-the-badge&logo=dynamics-365&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=brunoodaniel"/>
-</p> 
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
