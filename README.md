@@ -41,7 +41,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">  <img src="https://api.countapi.xyz/hit/brunoodaniel.github/profile.svg" alt="Visitor Count"/>
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=brunoodaniel&color=00bfbf&style=flat-square&label=VISITORS"/>
 </p> 
 <br></div>
 
