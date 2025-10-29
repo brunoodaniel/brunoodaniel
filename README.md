@@ -41,7 +41,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=brunoodaniel&color=00bfbf&style=flat-square&label=VISITORS"/>
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=brunoodaniel"/>
 </p> 
 <br></div>
 
